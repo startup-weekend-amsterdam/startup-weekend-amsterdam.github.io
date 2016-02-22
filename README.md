@@ -1,1 +1,1 @@
-Redirect website for swams.nl
+Redirect website for Startup Weekend Amsterdam at swams.nl.
